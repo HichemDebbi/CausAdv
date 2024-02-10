@@ -1,2 +1,2 @@
 # CausAdv
-CausAdv: A Causal-based Framework for Detecting Adversarial Example
+CausAdv: A Causal-based Framework for Detecting Adversarial Examples
